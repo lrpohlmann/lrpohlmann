@@ -1,5 +1,4 @@
 - 👋 Olá! Eu sou conhecido como Leonardo Rubert Pohlmann (@lrpohlmann)
-- 🌱 No momento estou aprendendo sobre Django, HTML, CSS e Javascript
 - 📫 Contato: leo.pohlmann2@gmail.com
 
 <!---
